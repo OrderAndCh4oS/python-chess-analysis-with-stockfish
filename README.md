@@ -2,7 +2,7 @@
 
 This repository contains two Python scripts for analyzing chess games and positions using the Stockfish chess engine.
 
-## Script 1: `[pgn_game_analysis.py](pgn_game_analysis.py)`
+## Script 1: `pgn_game_analysis.py`
 
 ### Description
 The `pgn_game_analysis.py` script allows users to analyze and visualize chess games stored in PGN (Portable Game Notation) files. It uses the Stockfish engine to evaluate positions and categorizes moves played by each side (White and Black) based on their quality. The script provides various statistics and plots the evaluation trends throughout the game.
