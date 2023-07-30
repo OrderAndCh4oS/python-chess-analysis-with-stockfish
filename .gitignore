@@ -1,0 +1,11 @@
+*.pgn
+*.png
+venv
+!games/Ding, Liren_vs_Nepomniachtchi, Ian_2023.04.13.pgn
+!evaluations/Ding, Liren_vs_Nepomniachtchi, Ian_2023.04.13.png
+polyglot
+
+.idea
+.DS_Store
+
+__pycache__
