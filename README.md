@@ -19,6 +19,8 @@ The `pgn_game_analysis.py` script allows users to analyze and visualize chess ga
 
 ### Example Output
 
+_Note_: It's a little overzealous in dishing out `!` excellent moves, I'm using it for my own games and there aren't too many of them…
+
 ```
 2023.04.13 40/7200:20/3600:900+30
 Ding, Liren (2829) vs. Nepomniachtchi, Ian (2761)
