@@ -86,9 +86,9 @@ Inaccuracies        3        4
 Mistakes            0        3
 Blunders            0        0
 
-Blunder Lines {}
-Mistake Lines {'56. … Nd4': '4r1k1/p1p1r1pp/1p2Pp1q/2pP4/2PnRp2/5Q1P/P2N1PP1/4R1K1 w - - 4 29', '60. … g5': '4r1k1/p1p1r2p/1p2Pp1q/3P2p1/2Pp1p2/1N3Q1P/P4PP1/4R1K1 w - - 0 31', '84. … f5': '4q3/p3P1k1/1p2Q2r/5ppp/2P5/6PP/P7/3R2K1 w - - 0 43'}
-Inaccuracies Lines {'28. … Na5': 'r3r1k1/ppp2ppp/3p1q2/n7/2PPPpb1/2PB4/P1QN1PPP/R3R1K1 w - - 8 15', '70. … Kh8': '4r2k/p1p4r/1p2Ppq1/3P1Npp/2P1Q3/6PP/P7/4R1K1 w - - 4 36', '72. … Qf7': '4r2k/p1p1Pq1r/1p3p2/3P1Npp/2P1Q3/6PP/P7/4R1K1 w - - 1 37', '76. … Qg8': '4r1qk/p3P2r/1p1N1p2/6pp/2P1Q3/6PP/P7/4R1K1 w - - 1 39', '77. Nxe8': '4N1qk/p3P2r/1p3p2/6pp/2P1Q3/6PP/P7/4R1K1 b - - 0 39', '79. Qe6': '4q2k/p3P2r/1p2Qp2/6pp/2P5/6PP/P7/4R1K1 b - - 1 40', '91. Qg7': '4q3/p3P1Q1/1p2kr2/6pp/2P5/6PP/P7/3R2K1 b - - 4 46'}
+Blunder FENs {}
+Mistake FENs {'56. … Nd4': '4r1k1/p1p1r1pp/1p2Pp1q/2pP4/2PnRp2/5Q1P/P2N1PP1/4R1K1 w - - 4 29', '60. … g5': '4r1k1/p1p1r2p/1p2Pp1q/3P2p1/2Pp1p2/1N3Q1P/P4PP1/4R1K1 w - - 0 31', '84. … f5': '4q3/p3P1k1/1p2Q2r/5ppp/2P5/6PP/P7/3R2K1 w - - 0 43'}
+Inaccuracies FENs {'28. … Na5': 'r3r1k1/ppp2ppp/3p1q2/n7/2PPPpb1/2PB4/P1QN1PPP/R3R1K1 w - - 8 15', '70. … Kh8': '4r2k/p1p4r/1p2Ppq1/3P1Npp/2P1Q3/6PP/P7/4R1K1 w - - 4 36', '72. … Qf7': '4r2k/p1p1Pq1r/1p3p2/3P1Npp/2P1Q3/6PP/P7/4R1K1 w - - 1 37', '76. … Qg8': '4r1qk/p3P2r/1p1N1p2/6pp/2P1Q3/6PP/P7/4R1K1 w - - 1 39', '77. Nxe8': '4N1qk/p3P2r/1p3p2/6pp/2P1Q3/6PP/P7/4R1K1 b - - 0 39', '79. Qe6': '4q2k/p3P2r/1p2Qp2/6pp/2P5/6PP/P7/4R1K1 b - - 1 40', '91. Qg7': '4q3/p3P1Q1/1p2kr2/6pp/2P5/6PP/P7/3R2K1 b - - 4 46'}
 ```
 
 #### Plot
