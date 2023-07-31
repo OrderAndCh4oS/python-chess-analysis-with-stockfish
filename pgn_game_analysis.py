@@ -141,12 +141,7 @@ def run(pgn_file, index=0, depth=16, threads=8):
 
         evaluations.append(eval_value if evaluation["type"] != "mate" else mate_value(eval_value, is_white_move))
 
-    data = {
-        "white_moves": white_moves,
-        "black_moves": white_moves,
-        "white_move_counts": white_move_counts,
-        "black_move_counts": black_move_counts
-    }
+
 
     if len(black_moves) != len(white_moves):
         black_moves.append('')
